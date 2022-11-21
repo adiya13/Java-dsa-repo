@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author sarka
+ *
+ */
+module diya {
+}
